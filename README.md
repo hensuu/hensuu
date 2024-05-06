@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm studying Computer Science in National Taiwan University.
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 <!--
 **hensuu/hensuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
