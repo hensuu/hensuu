@@ -28,7 +28,7 @@ I'm studying Computer Science in National Taiwan University (NTU).
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
-![Gitlab Runner](https://img.shields.io/badge/Gitlab_Runner-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitLab Runner](https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Zeabur](https://img.shields.io/badge/Zeabur-48197f?style=flat&logo=zeabur&logoColor=white)
 
