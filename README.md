@@ -1,11 +1,11 @@
 ## Hi there👋 I'm hensuu!
 
-I'm studying Computer Science in National Taiwan University (NTU).
+[hensuu.dev](https://hensuu.dev)
 
 ### Skills
 
 #### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA0ODc1IDQ4NzUnPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQnLz48L3N2Zz4=)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -58,6 +58,7 @@ I'm studying Computer Science in National Taiwan University (NTU).
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=white)
 ![Jykell](https://img.shields.io/badge/Jykell-CC0000?style=flat&logo=jekyll&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-A6120D?style=flat&logo=angular&logoColor=white)
 
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
