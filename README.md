@@ -1,7 +1,5 @@
 ## Hi there👋 I'm hensuu!
 
-[hensuu.dev](https://hensuu.dev)
-
 ### Skills
 
 #### Operating Systems
